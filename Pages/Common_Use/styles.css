@@ -1,0 +1,95 @@
+/*
+	style sheet for all the pages.
+*/
+
+
+.color-heading
+{
+	background:#002055;
+	padding-top:10px;
+	padding-bottom:10px;
+	text-align:center;
+	color:white;
+	border-radius:5px;
+}
+
+.main_header
+{
+	font-size: 300%;
+	color:#1A1033;
+}
+
+.secondary_header
+{
+	font-size: 200%;
+}
+
+.tertiary_header
+{
+	font-size: 150%;
+}
+
+
+.standard_text
+{
+	font-size: 100%;
+	color:#1A1033;
+}
+
+.main_header, .secondary_header, .standard_text , .tertiary_header
+{
+	font-family: 'Open Sans', sans-serif;
+}
+
+.btn-primary
+{
+    background:#002055;
+    border-color: #002055;
+}
+
+.btn-success
+{
+    background:#000044;
+    border-color:#000044;
+}
+
+.btn-success:hover
+{
+    background:#333388;
+    border-color:#333388;
+}
+
+.panel-heading
+{
+    color:white;
+    background-color:#002055;
+    /*background-color:#EEEEFF;*/
+    border-radius:0px;
+}
+
+
+.panel
+{
+    border:3px solid #002055;
+    /*border:0px;*/
+    border-radius:0px;
+    background-color:white;
+}
+
+body
+{
+    background-color:white;
+}
+
+.big-img
+{
+    border:5px solid #002055;
+    padding:1px;
+    background-color:white;
+}
+
+.buffer
+{
+    height:50px;
+    display:block;
+}

@@ -1,0 +1,6 @@
+1. Connect to ftp
+2. get the folder list
+3. download the profile.jpg and description.txt
+4. put it into the function
+5. post it into display page
+6. test

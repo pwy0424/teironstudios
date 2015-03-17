@@ -1,0 +1,10 @@
+Current Major Bug:
+1. Project portal change the portal to be php based instead of hard-code.
+	(1) using php on whole page including the curasor
+	(2) upload the profile pictures for all projects
+2. 
+
+Current Minor Bug:
+1. update can only display the folder name
+2. menu on left is always expended
+3. 

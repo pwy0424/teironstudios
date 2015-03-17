@@ -1,0 +1,18 @@
+Plan:
+
+1. Folder Reformat:
+-- Each Page will have its own folder, with its page name as the folder name
+-- Upload Folder
+-- each folder will be containing:
+	# js file
+	# CSS file
+	# html/php file
+	# html/php test file
+	# current_bug txt
+	# change_log txt
+
+2. Work Distribution on Page
+-- 
+
+3. Choosing the Framework/Picture sets
+

@@ -1,0 +1,2 @@
+This folder is bootstrap's default folder.
+It includes CSS, JS, and example of bootstrap template.
